@@ -16,9 +16,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"  />
   </a>
   <a href="https://roadmap.sh/u/eredinhawk" target="_blank">
-    <img src="https://img.shields.io/badge/roadmap-profile?logoColor=white&link=https%3A%2F%2Froadmap.sh%2Fu%2Feredinhawk" height="25" alt="roadmap logo">
+    <img src="https://img.shields.io/badge/roadmap-profile?logoColor=white&link=https%3A%2F%2Froadmap.sh%2Fu%2Feredinhawk" height="25" alt="roadmap logo" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&" height="25" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eredinhawk.eredinhawk&" height="25" />
 </div>
 
 ###
