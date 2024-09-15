@@ -63,7 +63,8 @@
 
 ###
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=http)](https://github.com/EredinHawk/http)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=HTTP)](https://github.com/EredinHawk/http)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=HTTP-Server)](https://github.com/EredinHawk/http)
 
 <h3 align="left">🔥   Моя статистика :</h3>
 
