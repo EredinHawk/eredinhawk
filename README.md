@@ -66,6 +66,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=HTTP)](https://github.com/EredinHawk/http)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=HTTP-Server)](https://github.com/EredinHawk/HTTP-Server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=how_dns_work)](https://github.com/EredinHawk/how_dns_work)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=Git)](https://github.com/EredinHawk/Git)
 
 <h3 align="left">🔥   Моя статистика :</h3>
 
