@@ -32,7 +32,7 @@
 <br>- ⚡ В 2021 году за работу получил свидетельство о регистрации программного продукта!
 <br>- 📚 Сегодня самостоятельно обучаюсь по дорожной карте https://roadmap.sh/backend
 <br>- 👨🏻‍💻 На каждом этапе обучения я буду разрабатывать небольшие программы и выкладывать их на GitHub
-
+<br></br>
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
@@ -59,7 +59,7 @@
 </div>
 
 ###
-
+<br></br>
 <h3 align="left">💼  Мои работы :</h3>
 
 ###
@@ -71,14 +71,14 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=how_dns_work)](https://github.com/EredinHawk/how_dns_work)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=Git)](https://github.com/EredinHawk/Git)
 
+<br></br>
 <h3 align="left">🔥   Моя статистика :</h3>
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=eredinhawk&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  width="528" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=eredinhawk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="220" alt="stats graph"  /><br>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eredinhawk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" width="528" alt="languages graph"  /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=eredinhawk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="220" alt="stats graph"  /><br>
 </div>
 
 ###
