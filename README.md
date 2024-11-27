@@ -64,7 +64,7 @@
 
 ###
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=portfolio)](https://github.com/EredinHawk/portfolio)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=data_base)](https://github.com/EredinHawk/data_base)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=HTTP)](https://github.com/EredinHawk/http)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=HTTP-Server)](https://github.com/EredinHawk/HTTP-Server)
