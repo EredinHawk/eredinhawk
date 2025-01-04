@@ -19,11 +19,14 @@
     <img src="https://img.shields.io/badge/roadmap-profile?logoColor=white&link=https%3A%2F%2Froadmap.sh%2Fu%2Feredinhawk" height="25" alt="roadmap logo" />
   </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eredinhawk.eredinhawk&" height="25" />
+  <a href="https://eredinhawk.ru/" target="_blank">
+    <img src="https://img.shields.io/badge/Мои проекты-0078D6?style=for-the-badge&logo=&logoColor=white" height="25" alt="portfolio" />
+  </a>
 </div>
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👨🏻‍💻  Обо мне</h3>
 
 ###
 
@@ -64,27 +67,7 @@
 
 ###
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=rest_jwt_auth)](https://github.com/EredinHawk/rest_jwt_auth)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=data_base)](https://github.com/EredinHawk/data_base)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=HTTP)](https://github.com/EredinHawk/http)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=HTTP-Server)](https://github.com/EredinHawk/HTTP-Server)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=how_dns_work)](https://github.com/EredinHawk/how_dns_work)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eredinhawk&repo=Git)](https://github.com/EredinHawk/Git)
-
-<br></br>
-<h3 align="left">🔥   Моя статистика :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eredinhawk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" width="528" alt="languages graph"  /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=eredinhawk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="220" alt="stats graph"  /><br>
-</div>
-
-###
-
-<div align="center">
-  
-</div>
-
-###
