@@ -18,10 +18,10 @@
 <br>
 
 <div align="center">
-  <a href="https://eredinhawk.ru/" target="blank">
+  <a href="https://eredinhawk.ru/" target="_blank">
     <img src="https://img.shields.io/badge/Мои проекты-0078D6?style=for-the-badge&logo=&logoColor=white" height="50" width="210" alt="portfolio" />
   </a>
-  <a href="https://hh.ru/resume/23ff8ed1ff0e01d60d0039ed1f7a44566a3457" target="blank">
+  <a href="https://hh.ru/resume/23ff8ed1ff0e01d60d0039ed1f7a44566a3457" target="_blank">
     <img src="https://img.shields.io/badge/Моё резюме-%23B92B27?style=for-the-badge&logo=&logoColor=white" height="50" width="210" alt="resume" />
   </a>
 </div>
